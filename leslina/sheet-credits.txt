@@ -1,0 +1,99 @@
+Authors: Benjamin K. Smith (BenCreating), bluecarrot16, TheraHedwig, Evert, MuffinElZangano, Durrani, Pierre Vigier (pvigier), ElizaWy, Matthew Krohn (makrohn), Johannes Sjölund (wulax), Stephen Challener (Redshrike), Thane Brimhall (pennomi), David Conway Jr. (JaidynReiman), Lanea Zimmerman (Sharm), Manuel Riecke (MrBeast), laetissima, Luke Mehl, Michael Whitlock (bigbeargames), Nila122
+
+- body/bodies/female/universal/light.png: by Benjamin K. Smith (BenCreating), bluecarrot16, TheraHedwig, Evert, MuffinElZangano, Durrani, Pierre Vigier (pvigier), ElizaWy, Matthew Krohn (makrohn), Johannes Sjölund (wulax), Stephen Challener (Redshrike). License(s): OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+    - https://opengameart.org/content/lpc-ladies
+    - https://opengameart.org/content/lpc-7-womens-shirts
+    - https://opengameart.org/content/lpc-jump-expanded
+
+- head/heads/human_male/universal/light.png: by bluecarrot16, Benjamin K. Smith (BenCreating), Stephen Challener (Redshrike). License(s): OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+    - https://opengameart.org/content/lpc-character-bases
+
+- head/ears/elven/light.png: by bluecarrot16, Thane Brimhall (pennomi), Matthew Krohn (makrohn), David Conway Jr. (JaidynReiman). License(s): GPL 3.0, CC-BY-SA 3.0. 
+    - https://opengameart.org/content/lpc-base-character-expressions
+    - http://opengameart.org/content/lpc-clothing-updates
+
+- head/nose/button/light.png: by Thane Brimhall (pennomi), Matthew Krohn (makrohn). License(s): GPL 3.0, CC-BY-SA 3.0. 
+    - https://opengameart.org/content/lpc-base-character-expressions
+
+- eyes/male/blue.png: by Matthew Krohn (makrohn), Stephen Challener (Redshrike). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+
+- hair/princess/female/sandy.png: by David Conway Jr. (JaidynReiman), Lanea Zimmerman (Sharm), Manuel Riecke (MrBeast). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+
+- facial/monocle.png: by bluecarrot16, Thane Brimhall (pennomi), laetissima. License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/clothing-facial-features-and-ui-elements
+    - https://opengameart.org/content/lpc-gentleman
+
+- facial/earring/female/gold.png: by bluecarrot16. License(s): CC-BY-SA 3.0. 
+    - https://opengameart.org/content/lpc-pirates
+
+- neck/capeclip/female/red.png: by bluecarrot16, David Conway Jr. (JaidynReiman). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more
+    - http://opengameart.org/content/lpc-clothing-updates
+
+- necklace/female/silver.png: by Luke Mehl. License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/female-mage-clothing-set
+
+- gloves/female/rose.png: by Michael Whitlock (bigbeargames), Matthew Krohn (makrohn), Johannes Sjölund (wulax), bluecarrot16. License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+    - http://opengameart.org/content/lpc-clothing-updates
+
+- dress/bodice/female/red.png: by bluecarrot16, Matthew Krohn (makrohn), Lanea Zimmerman (Sharm). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+    - https://opengameart.org/content/lpc-dress-in-combat-poses
+    - http://opengameart.org/content/lpc-clothing-updates
+
+- torso/clothes/blouse_longsleeve/female/red.png: by bluecarrot16, ElizaWy, Lanea Zimmerman (Sharm). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+    - https://opengameart.org/content/lpc-7-womens-shirts
+
+- cape/solid/female/red.png: by bluecarrot16, David Conway Jr. (JaidynReiman). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more
+    - https://opengameart.org/content/lpc-roman-armor
+    - http://opengameart.org/content/lpc-clothing-updates
+
+- cape/solid_behind/red.png: by Nila122, David Conway Jr. (JaidynReiman). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more
+    - https://opengameart.org/content/lpc-roman-armor
+
+- cape/trim/female/yellow.png: by bluecarrot16, David Conway Jr. (JaidynReiman). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more
+    - http://opengameart.org/content/lpc-clothing-updates
+
+- torso/waist/buckles/female/gold.png: by Luke Mehl. License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/female-mage-clothing-set
+
+- legs/skirts/straight/female/red.png: by bluecarrot16, ElizaWy. License(s): OGA-BY 3.0, GPL 3.0. 
+    - http://opengameart.org/content/lpc-clothing-updates
+
+- feet/ghillies/female/yellow.png: by bluecarrot16, Thane Brimhall (pennomi), laetissima, Matthew Krohn (makrohn). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-2-characters
+    - http://opengameart.org/content/lpc-clothing-updates
+
+- weapon/magic/gnarled/gnarled.png: by bluecarrot16. License(s): OGA-BY 3.0+, GPL 3.0, CC-BY 4.0. 
+    - https://opengameart.org/content/lpc-more-weapons
+
+- weapon/magic/gnarled/universal_behind/gnarled.png: by bluecarrot16. License(s): OGA-BY 3.0+, GPL 3.0, CC-BY 4.0. 
+    - https://opengameart.org/content/lpc-more-weapons
+
+- weapon/magic/gnarled/attack_thrust/background/gnarled.png: by bluecarrot16. License(s): OGA-BY 3.0+, GPL 3.0, CC-BY 4.0. 
+    - https://opengameart.org/content/lpc-more-weapons
+
+- weapon/magic/gnarled/attack_thrust/gnarled.png: by bluecarrot16. License(s): OGA-BY 3.0+, GPL 3.0, CC-BY 4.0. 
+    - https://opengameart.org/content/lpc-more-weapons
+
+- weapon/magic/crystal/blue.png: by bluecarrot16. License(s): OGA-BY 3.0+, GPL 3.0, CC-BY 4.0. 
+    - https://opengameart.org/content/lpc-more-weapons
+
+- weapon/magic/crystal/universal_behind/blue.png: by bluecarrot16. License(s): OGA-BY 3.0+, GPL 3.0, CC-BY 4.0. 
+    - https://opengameart.org/content/lpc-more-weapons
+
+- weapon/magic/crystal/attack_thrust/blue.png: by bluecarrot16. License(s): OGA-BY 3.0+, GPL 3.0, CC-BY 4.0. 
+    - https://opengameart.org/content/lpc-more-weapons
+
+- weapon/magic/crystal/attack_thrust/background/blue.png: by bluecarrot16. License(s): OGA-BY 3.0+, GPL 3.0, CC-BY 4.0. 
+    - https://opengameart.org/content/lpc-more-weapons
